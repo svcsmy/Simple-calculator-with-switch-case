@@ -68,7 +68,7 @@ public class main {
 			 break;
 		 
 		default: 
-		         Sytem.out.println("You entered an invalid transaction");
+		         System.out.println("You entered an invalid transaction");
 		
 		
 		

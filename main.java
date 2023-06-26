@@ -67,7 +67,8 @@ public class main {
 			 System.out.println("Division number is : " + division );
 			 break;
 		 
-		
+		default: 
+		         Sytem.out.println("You entered an invalid transaction");
 		
 		
 		
